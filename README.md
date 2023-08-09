@@ -1,2 +1,2 @@
 # 1
- primeiro repositorio
+ primeiro repositório
